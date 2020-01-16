@@ -95,7 +95,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>lectures.part1basics.StringOps</mainClass>
+                  <mainClass>lectures.part1basics.Expressions</mainClass>
                 </transformer>
                 <transformer>
                   <resource>reference.conf</resource>
